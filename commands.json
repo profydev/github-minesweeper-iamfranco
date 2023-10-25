@@ -1,11 +1,3 @@
 {
-  "commands": [
-    "Clear H1",
-    "Flag E1",
-    "Flag E2",
-    "Clear E3",
-    "Clear F3",
-    "Clear G3",
-    "Flag H3"
-  ]
+  "commands": []
 }
